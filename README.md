@@ -1,4 +1,4 @@
-# diagrams
+# Diagramas
  Diagramas para um sistema com controle de estoque (produtos, estoque, vendas). 
 
 Diagrama de Entidade Relacionamento 
